@@ -33,6 +33,4 @@
 *Création d’un formulaire interactif (ex : saisie de l'âge, sexe, classe, etc.).
 *Appel de l’API pour envoyer les données et afficher la prédiction.
 *Design UI : ajout d’un fond, amélioration de l’ergonomie.
-*Appel de l’API pour envoyer les données et afficher la prédiction.
 
-Design UI : ajout d’un fond, amélioration de l’ergonomie.
